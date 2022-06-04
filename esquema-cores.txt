@@ -1,0 +1,12 @@
+Colors
+#0F468C
+#0F528C
+#30A9D9
+#99E9F2
+#0F2617
+
+
+Gradient
+#145CA4
+#3D3D31
+#8DDEEF
